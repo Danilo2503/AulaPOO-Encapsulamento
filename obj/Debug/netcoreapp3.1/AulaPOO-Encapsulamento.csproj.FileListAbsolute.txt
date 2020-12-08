@@ -1,0 +1,13 @@
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.exe
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.deps.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Encapsulamento POO\AulaPOO-Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO-Encapsulamento.genruntimeconfig.cache
